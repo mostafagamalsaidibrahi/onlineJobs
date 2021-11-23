@@ -1,0 +1,30 @@
+.table{
+    margin-top: 100px;
+}
+.table .thead-dark th{
+    background-color: rgb(230, 0, 0);
+    border: 1px solid rgb(230, 0, 0);
+}
+.table td, .table th{
+    font-size: 25px;
+    font-weight: bold;
+}
+tbody tr td button a{
+    text-decoration: none;
+    color: white;
+}
+tbody tr td button a:hover{
+    text-decoration: none;
+    color: white;
+}
+tbody tr td .accept{
+    background-color: #107715;
+    border: 1px solid #107715;
+}
+tbody tr td .accept:hover{
+    background-color: #107715;
+    border: 1px solid #107715;
+}
+tbody tr td .btn-danger{
+    background-color: rgb(230,0,0);
+}

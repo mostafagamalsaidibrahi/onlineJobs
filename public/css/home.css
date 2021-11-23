@@ -1,0 +1,32 @@
+/* rgb(230, 0, 0) */
+
+.result{
+    background-color: red;
+}
+
+.last .row .feedbackForm form .form-group h1{
+    color: rgb(230, 0, 0);
+    font-weight: bold;
+}
+.last .row .feedbackForm form .form-group input , textarea{
+    color: rgb(230, 0, 0);
+    font-weight: bold;
+}
+.last .row .contacts .contacts-info{
+    margin-top: 33%;
+}
+.last .row .contacts .contacts-info form .form-group h1{
+    color: rgb(230, 0, 0);
+    font-weight: bold;
+}
+.last .row .contacts .contacts-info form .form-group i{
+    color: rgb(230, 0, 0);
+}
+.last .row .contacts .contacts-info form .form-group i > span{
+    color: black;
+    padding-left: 10px;
+}
+.btn-primary{
+    background-color: rgb(230, 0, 0);
+    border: 1px solid rgb(230, 0, 0);
+}

@@ -1,0 +1,10 @@
+.card-body{
+    background-color: #e4e4e4;
+}
+.card-body > h5 > span{
+    color: rgb(230, 0, 0);
+}
+.card-body > button >a{
+    text-decoration: none;
+    color: white;
+}

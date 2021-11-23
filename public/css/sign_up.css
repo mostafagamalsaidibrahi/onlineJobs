@@ -1,0 +1,22 @@
+.form-group #type_selection{
+    background-color: red;
+    padding: 10px;
+    color:#FFF;
+    font-weight: bold;
+    background:none;
+    border: 2px solid #1d68a7;
+    border-radius: 20px;
+}
+.form-group #type_selection > option{
+    color: #1d68a7;
+    font-style: italic;
+}
+.form-group #type_selection:hover{
+    background-color: #1d68a7;
+    padding: 10px;
+    color:#FFF;
+    font-weight: bold;
+    background:none;
+    border: 2px solid #FFF;
+    border-radius: 20px;
+}

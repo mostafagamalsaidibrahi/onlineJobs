@@ -1,0 +1,36 @@
+body{
+    background-color: #fff;
+}
+.nav-element{
+    background-color: gainsboro;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: black;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link:hover{
+    color: black;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: black;
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link.disabled{
+    color: black;
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link.disabled:hover{
+    color: black;
+    font-weight: bold;
+}
+.navbar-light .navbar-brand{
+    color:  rgb(230, 0, 0);
+    font-weight: bold;
+}
+.navbar-light .navbar-brand:hover{
+    color:  rgb(230, 0, 0);
+    font-weight: bold;
+}

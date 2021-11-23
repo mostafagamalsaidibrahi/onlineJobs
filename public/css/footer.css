@@ -1,0 +1,9 @@
+
+.footer-div .copy-right{
+    font-weight: bold;
+}
+.footer-div .copy-right a{
+    font-style: italic;
+    font-weight: normal;
+    color: rgb(230, 0, 0);
+}

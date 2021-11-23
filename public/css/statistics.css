@@ -1,0 +1,10 @@
+
+.card .card-body > h5{
+    color: rgb(230, 0, 0);
+}
+.card .card-body > h1 > span{
+    background-color: #000;
+}
+.card .card-body .progress .progress-bar{
+    background-color: red;
+}
